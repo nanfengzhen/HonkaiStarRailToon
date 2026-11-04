@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MaterialIDValuesLUTTheHerta_00_Mat_Body_RGBAHalf
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 2
+  m_Width: 8
+  m_Height: 8
+  m_CompleteImageSize: 512
+  m_MipsStripped: 0
+  m_TextureFormat: 17
+  m_MipCount: 1
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 0
+    m_Aniso: 0
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 0
+  m_ColorSpace: 0
+  m_PlatformBlob: 
+  image data: 512
+  _typelessdata: 000000000000003c000000000000003c000000000000003c4e324e324e32003cfe3458342834003c000000000000003c5a373738fc38003c33316a322233003c00491f25003c003c00491f25003c003c00491f25003c003c00491f25003c003c00491f250040003c00491f25003c003c00481f250044003cc04c1f250044003cfc2f2f263225003c652e132cdc2c003c9a27af248926003c5e29d9251e25003cf228b2253b25003ce92c57296130003c1325ff202821003c42276f278b28003c3d3a69393a39003c02389336af36003c59358034d434003cb73562343034003c3d3a68389a37003ca73727375c38003ce835c034f234003c7336a0355737003c003c00380038003c003ccd340038003c003c00386636003c003c00380038003c003c00380038003c003c00380038003c003c00380038003c003c00380038003ca73482348234003c2b352b352b35003c2b352b352b35003c2b352b352b35003c2b352b352b35003c2b352b352b35003c9e298a2db833003c4c3605304c2b003c00001f211f25003c00001f211f25003c00001f211f25003c00001f21662e003c00001f210038003c00001f211f25003c3f48333b1f25003c0000333b0038003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c003c
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
