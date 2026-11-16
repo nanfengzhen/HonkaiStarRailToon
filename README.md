@@ -1,4 +1,5 @@
 <img width="1920" height="1020" alt="The Herta" src="https://github.com/user-attachments/assets/a074f345-843b-4e01-97a4-362b51fcb662" />
+
 | **脸部 SDF** | 根据光照与头部方向控制面部明暗，包含控制图左右翻转、肤色和阴影颜色过渡。 |
 
 | **刘海阴影** | 单独生成相机视角下的头发深度图，画脸时比较遮挡，再与 SDF 受光结果结合。 |
